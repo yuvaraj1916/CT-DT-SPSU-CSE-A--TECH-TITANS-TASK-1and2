@@ -1,2 +1,2 @@
 # CT-DT-SPSU-CSE-A--TECH-TITANS-TASK-1and2
-Task-1
+Task-1and2
