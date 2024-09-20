@@ -1,2 +1,2 @@
-# CT-DT-SPSU-CSE-A--TECH-TITANS-TASK-1and2
-Task-1and2
+# CT-DT-SPSU-CSE-A--TECH-TITANS-TASKS
+module-1 tasks 1-10
